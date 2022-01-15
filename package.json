@@ -1,11 +1,10 @@
 {
-  "name": "220115_tai_landing_page",
+  "name": "test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build:css": "tailwind build src/style.css -o dist/sytle.css"
+    "build:css": "tailwind build src/style.css -o dist/style.css"
   },
   "keywords": [],
   "author": "",
